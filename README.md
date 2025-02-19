@@ -1,2 +1,1 @@
-# machine-learing-2025spring
-# machine-learing-2025spring
+# machine-learning-2025spring
